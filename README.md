@@ -38,14 +38,16 @@ $ python3 smart_alarm.py and it should display this below:
  * Debug mode: on
 
 If the link, does not show up the user can proceed to the logs.log file and find the respective link. An example of this is shown below: 
-2020-12-18 18:33:41,395 INFO: Refresh Smart Alarm Clock
-2020-12-18 18:33:41,406 INFO: Getting covid-19 cases and deaths updates from covid-19 API
-2020-12-18 18:33:48,068 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
-2020-12-18 18:33:48,068 INFO: Getting Weather Updates from Weather API
-2020-12-18 18:33:48,324 INFO: Returning Weather Updates from Weather API
-2020-12-18 18:33:48,324 INFO: Getting News Updates from News API
-2020-12-18 18:33:48,842 INFO: Returning News Updates from News API
-2020-12-18 18:33:48,948 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+- 2020-12-18 18:33:41,395 INFO: Refresh Smart Alarm Clock
+- 2020-12-18 18:33:41,406 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+- 2020-12-18 18:33:48,068 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+- 2020-12-18 18:33:48,068 INFO: Getting Weather Updates from Weather API
+- 2020-12-18 18:33:48,324 INFO: Returning Weather Updates from Weather API
+- 2020-12-18 18:33:48,324 INFO: Getting News Updates from News API
+- 2020-12-18 18:33:48,842 INFO: Returning News Updates from News API
+- 2020-12-18 18:33:48,948 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+
+
 
 The user can copy the link http://127.0.0.1:5000/ and paste this into a browser (specifically Google Chrome) and all of the functionality can be executed from there. 
 
