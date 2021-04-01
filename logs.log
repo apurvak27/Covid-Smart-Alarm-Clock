@@ -1,0 +1,411 @@
+2020-12-18 16:41:25,075 WARNING:  * Debugger is active!
+2020-12-18 16:41:25,104 INFO:  * Debugger PIN: 292-483-655
+2020-12-18 16:41:31,230 INFO:  * Detected change in '/Users/Apurva/Desktop/smart-alarm-clock/smart_alarm.py', reloading
+2020-12-18 16:41:32,769 WARNING:  * Debugger is active!
+2020-12-18 16:41:32,807 INFO:  * Debugger PIN: 292-483-655
+2020-12-18 16:42:16,760 INFO:  * Detected change in '/Users/Apurva/Desktop/smart-alarm-clock/smart_alarm.py', reloading
+2020-12-18 16:42:18,999 WARNING:  * Debugger is active!
+2020-12-18 16:42:19,026 INFO:  * Debugger PIN: 292-483-655
+2020-12-18 17:00:51,602 INFO:  * Detected change in '/Users/Apurva/Desktop/smart-alarm-clock/smart_alarm.py', reloading
+2020-12-18 17:02:05,223 INFO: Refresh Smart Alarm Clock
+2020-12-18 17:02:05,232 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:02:07,173 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 17:02:07,174 INFO: Getting Weather Updates from Weather API
+2020-12-18 17:02:07,239 INFO: Returning Weather Updates from Weather API
+2020-12-18 17:02:07,239 INFO: Getting News Updates from News API
+2020-12-18 17:02:07,599 INFO: Returning News Updates from News API
+2020-12-18 17:02:07,644 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-12-18 17:02:07,659 INFO:  * Restarting with stat
+2020-12-18 17:02:07,971 INFO: Refresh Smart Alarm Clock
+2020-12-18 17:02:07,975 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:02:08,188 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 17:02:08,188 INFO: Getting Weather Updates from Weather API
+2020-12-18 17:02:08,242 INFO: Returning Weather Updates from Weather API
+2020-12-18 17:02:08,243 INFO: Getting News Updates from News API
+2020-12-18 17:02:09,056 INFO: Returning News Updates from News API
+2020-12-18 17:02:09,069 WARNING:  * Debugger is active!
+2020-12-18 17:02:09,102 INFO:  * Debugger PIN: 292-483-655
+2020-12-18 17:03:30,876 INFO: 127.0.0.1 - - [18/Dec/2020 17:03:30] "[37mGET / HTTP/1.1[0m" 200 -
+2020-12-18 17:03:33,445 INFO: 127.0.0.1 - - [18/Dec/2020 17:03:33] "[37mGET / HTTP/1.1[0m" 200 -
+2020-12-18 17:03:53,199 INFO: Refreshing notifications
+2020-12-18 17:03:53,200 INFO: Collecting Notifications
+2020-12-18 17:03:53,200 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:03:53,460 INFO: Refreshing notifications
+2020-12-18 17:03:53,463 INFO: Collecting Notifications
+2020-12-18 17:03:53,463 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:03:54,557 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 17:03:54,557 INFO: Getting Weather Updates from Weather API
+2020-12-18 17:03:54,673 INFO: Returning Weather Updates from Weather API
+2020-12-18 17:03:54,673 INFO: Getting News Updates from News API
+2020-12-18 17:03:55,478 INFO: Returning News Updates from News API
+2020-12-18 17:03:55,479 INFO: Refreshing notifications
+2020-12-18 17:03:55,479 INFO: Collecting Notifications
+2020-12-18 17:03:55,479 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:03:55,762 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 17:03:55,762 INFO: Getting Weather Updates from Weather API
+2020-12-18 17:03:55,825 INFO: Returning Weather Updates from Weather API
+2020-12-18 17:03:55,825 INFO: Getting News Updates from News API
+2020-12-18 17:03:56,723 INFO: Returning News Updates from News API
+2020-12-18 17:03:56,724 INFO: Refreshing notifications
+2020-12-18 17:03:56,724 INFO: Collecting Notifications
+2020-12-18 17:03:56,724 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:03:57,266 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 17:03:57,266 INFO: Getting Weather Updates from Weather API
+2020-12-18 17:03:57,406 INFO: Returning Weather Updates from Weather API
+2020-12-18 17:03:57,406 INFO: Getting News Updates from News API
+2020-12-18 17:03:58,194 INFO: Returning News Updates from News API
+2020-12-18 17:03:58,194 INFO: Refreshing notifications
+2020-12-18 17:03:58,194 INFO: Collecting Notifications
+2020-12-18 17:03:58,195 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:03:58,346 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 17:03:58,346 INFO: Getting Weather Updates from Weather API
+2020-12-18 17:03:58,435 INFO: Returning Weather Updates from Weather API
+2020-12-18 17:03:58,435 INFO: Getting News Updates from News API
+2020-12-18 17:03:58,806 INFO: Returning News Updates from News API
+2020-12-18 17:03:58,807 INFO: Refreshing notifications
+2020-12-18 17:03:58,807 INFO: Collecting Notifications
+2020-12-18 17:03:58,807 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:03:58,987 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 17:03:58,987 INFO: Getting Weather Updates from Weather API
+2020-12-18 17:03:59,043 INFO: Returning Weather Updates from Weather API
+2020-12-18 17:03:59,043 INFO: Getting News Updates from News API
+2020-12-18 17:03:59,359 INFO: Returning News Updates from News API
+2020-12-18 17:03:59,359 INFO: Refreshing notifications
+2020-12-18 17:03:59,359 INFO: Collecting Notifications
+2020-12-18 17:03:59,360 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:03:59,545 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 17:03:59,545 INFO: Getting Weather Updates from Weather API
+2020-12-18 17:03:59,611 INFO: Returning Weather Updates from Weather API
+2020-12-18 17:03:59,611 INFO: Getting News Updates from News API
+2020-12-18 17:03:59,947 INFO: Returning News Updates from News API
+2020-12-18 17:03:59,948 INFO: Refreshing notifications
+2020-12-18 17:03:59,948 INFO: Collecting Notifications
+2020-12-18 17:03:59,948 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:04:00,527 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 17:04:00,527 INFO: Getting Weather Updates from Weather API
+2020-12-18 17:04:00,591 INFO: Returning Weather Updates from Weather API
+2020-12-18 17:04:00,591 INFO: Getting News Updates from News API
+2020-12-18 17:04:01,526 INFO: Returning News Updates from News API
+2020-12-18 17:04:01,526 INFO: Refreshing notifications
+2020-12-18 17:04:01,527 INFO: Collecting Notifications
+2020-12-18 17:04:01,527 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:04:01,893 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 17:04:01,893 INFO: Getting Weather Updates from Weather API
+2020-12-18 17:04:01,966 INFO: Returning Weather Updates from Weather API
+2020-12-18 17:04:01,966 INFO: Getting News Updates from News API
+2020-12-18 17:04:02,533 INFO: Returning News Updates from News API
+2020-12-18 17:04:02,534 INFO: Refreshing notifications
+2020-12-18 17:04:02,534 INFO: Collecting Notifications
+2020-12-18 17:04:02,534 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:04:02,694 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 17:04:02,695 INFO: Getting Weather Updates from Weather API
+2020-12-18 17:04:02,745 INFO: Returning Weather Updates from Weather API
+2020-12-18 17:04:02,745 INFO: Getting News Updates from News API
+2020-12-18 17:04:03,575 INFO: Returning News Updates from News API
+2020-12-18 17:04:03,576 INFO: Refreshing notifications
+2020-12-18 17:04:03,576 INFO: Collecting Notifications
+2020-12-18 17:04:03,577 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:04:03,700 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 17:04:03,700 INFO: Getting Weather Updates from Weather API
+2020-12-18 17:04:03,751 INFO: Returning Weather Updates from Weather API
+2020-12-18 17:04:03,751 INFO: Getting News Updates from News API
+2020-12-18 17:04:04,349 INFO: Returning News Updates from News API
+2020-12-18 17:04:04,350 INFO: Refreshing notifications
+2020-12-18 17:04:04,350 INFO: Collecting Notifications
+2020-12-18 17:04:04,350 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:04:04,493 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 17:04:04,493 INFO: Getting Weather Updates from Weather API
+2020-12-18 17:04:04,547 INFO: Returning Weather Updates from Weather API
+2020-12-18 17:04:04,547 INFO: Getting News Updates from News API
+2020-12-18 17:04:05,366 INFO: Returning News Updates from News API
+2020-12-18 17:04:05,366 INFO: Refreshing notifications
+2020-12-18 17:04:05,366 INFO: Collecting Notifications
+2020-12-18 17:04:05,366 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:04:05,774 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 17:04:05,774 INFO: Getting Weather Updates from Weather API
+2020-12-18 17:04:05,952 INFO: Returning Weather Updates from Weather API
+2020-12-18 17:04:05,952 INFO: Getting News Updates from News API
+2020-12-18 17:04:06,787 INFO: Returning News Updates from News API
+2020-12-18 17:04:06,788 INFO: Refreshing notifications
+2020-12-18 17:04:06,788 INFO: Collecting Notifications
+2020-12-18 17:04:06,788 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:04:06,935 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 17:04:06,935 INFO: Getting Weather Updates from Weather API
+2020-12-18 17:04:06,990 INFO: Returning Weather Updates from Weather API
+2020-12-18 17:04:06,990 INFO: Getting News Updates from News API
+2020-12-18 17:04:07,301 INFO: Returning News Updates from News API
+2020-12-18 17:04:07,302 INFO: Refreshing notifications
+2020-12-18 17:04:07,302 INFO: Collecting Notifications
+2020-12-18 17:04:07,302 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:04:07,540 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 17:04:07,541 INFO: Getting Weather Updates from Weather API
+2020-12-18 17:04:07,626 INFO: Returning Weather Updates from Weather API
+2020-12-18 17:04:07,626 INFO: Getting News Updates from News API
+2020-12-18 17:04:08,176 INFO: Returning News Updates from News API
+2020-12-18 17:04:08,176 INFO: Refreshing notifications
+2020-12-18 17:04:08,177 INFO: Collecting Notifications
+2020-12-18 17:04:08,177 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:04:08,295 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 17:04:08,295 INFO: Getting Weather Updates from Weather API
+2020-12-18 17:04:08,354 INFO: Returning Weather Updates from Weather API
+2020-12-18 17:04:08,354 INFO: Getting News Updates from News API
+2020-12-18 17:04:08,879 INFO: Returning News Updates from News API
+2020-12-18 17:04:08,879 INFO: Refreshing notifications
+2020-12-18 17:04:08,879 INFO: Collecting Notifications
+2020-12-18 17:04:08,879 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:04:09,023 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 17:04:09,023 INFO: Getting Weather Updates from Weather API
+2020-12-18 17:04:09,083 INFO: Returning Weather Updates from Weather API
+2020-12-18 17:04:09,083 INFO: Getting News Updates from News API
+2020-12-18 17:04:09,911 INFO: Returning News Updates from News API
+2020-12-18 17:04:09,911 INFO: Refreshing notifications
+2020-12-18 17:04:09,912 INFO: Collecting Notifications
+2020-12-18 17:04:09,912 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:04:10,050 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 17:04:10,050 INFO: Getting Weather Updates from Weather API
+2020-12-18 17:04:10,118 INFO: Returning Weather Updates from Weather API
+2020-12-18 17:04:10,119 INFO: Getting News Updates from News API
+2020-12-18 17:04:10,947 INFO: Returning News Updates from News API
+2020-12-18 17:04:10,947 INFO: Refreshing notifications
+2020-12-18 17:04:10,947 INFO: Collecting Notifications
+2020-12-18 17:04:10,947 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:04:11,114 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 17:04:11,115 INFO: Getting Weather Updates from Weather API
+2020-12-18 17:04:11,191 INFO: Returning Weather Updates from Weather API
+2020-12-18 17:04:11,192 INFO: Getting News Updates from News API
+2020-12-18 17:04:12,168 INFO: Returning News Updates from News API
+2020-12-18 17:04:12,169 INFO: Refreshing notifications
+2020-12-18 17:04:12,169 INFO: Collecting Notifications
+2020-12-18 17:04:12,169 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:04:12,308 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 17:04:12,309 INFO: Getting Weather Updates from Weather API
+2020-12-18 17:04:12,367 INFO: Returning Weather Updates from Weather API
+2020-12-18 17:04:12,367 INFO: Getting News Updates from News API
+2020-12-18 17:05:18,891 INFO: Refresh Smart Alarm Clock
+2020-12-18 17:05:18,899 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:05:19,139 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 17:05:19,139 INFO: Getting Weather Updates from Weather API
+2020-12-18 17:05:19,219 INFO: Returning Weather Updates from Weather API
+2020-12-18 17:05:19,219 INFO: Getting News Updates from News API
+2020-12-18 17:05:19,785 INFO: Returning News Updates from News API
+2020-12-18 17:05:19,820 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-12-18 17:05:19,828 INFO:  * Restarting with stat
+2020-12-18 17:05:20,147 INFO: Refresh Smart Alarm Clock
+2020-12-18 17:05:20,152 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:05:20,296 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 17:05:20,296 INFO: Getting Weather Updates from Weather API
+2020-12-18 17:05:20,347 INFO: Returning Weather Updates from Weather API
+2020-12-18 17:05:20,347 INFO: Getting News Updates from News API
+2020-12-18 17:05:21,139 INFO: Returning News Updates from News API
+2020-12-18 17:05:21,151 WARNING:  * Debugger is active!
+2020-12-18 17:05:21,160 INFO:  * Debugger PIN: 292-483-655
+2020-12-18 17:05:58,931 INFO: 127.0.0.1 - - [18/Dec/2020 17:05:58] "[37mGET / HTTP/1.1[0m" 200 -
+2020-12-18 17:06:10,235 INFO: New Alarm Added
+2020-12-18 17:06:10,235 INFO: Scheduled alarm created with label
+2020-12-18 17:06:10,237 INFO: 127.0.0.1 - - [18/Dec/2020 17:06:10] "[37mGET /index?alarm=2020-12-18T17%3A07&two=Update&news=news&weather=weather HTTP/1.1[0m" 200 -
+2020-12-18 17:06:14,064 INFO: Notification Removed
+2020-12-18 17:06:14,065 INFO: 127.0.0.1 - - [18/Dec/2020 17:06:14] "[37mGET /index?notif=Covid-19+Update HTTP/1.1[0m" 200 -
+2020-12-18 17:06:31,322 INFO: Notification Removed
+2020-12-18 17:06:31,325 INFO: 127.0.0.1 - - [18/Dec/2020 17:06:31] "[37mGET /index?notif=Covid-19+Update HTTP/1.1[0m" 200 -
+2020-12-18 17:06:31,908 INFO: Notification Removed
+2020-12-18 17:06:31,909 INFO: 127.0.0.1 - - [18/Dec/2020 17:06:31] "[37mGET /index?notif=Covid-19+Update HTTP/1.1[0m" 200 -
+2020-12-18 17:06:32,320 INFO: Notification Removed
+2020-12-18 17:06:32,322 INFO: 127.0.0.1 - - [18/Dec/2020 17:06:32] "[37mGET /index?notif=Covid-19+Update HTTP/1.1[0m" 200 -
+2020-12-18 17:06:32,672 INFO: Notification Removed
+2020-12-18 17:06:32,673 INFO: 127.0.0.1 - - [18/Dec/2020 17:06:32] "[37mGET /index?notif=Covid-19+Update HTTP/1.1[0m" 200 -
+2020-12-18 17:06:32,920 INFO: Notification Removed
+2020-12-18 17:06:32,921 INFO: 127.0.0.1 - - [18/Dec/2020 17:06:32] "[37mGET /index?notif=Covid-19+Update HTTP/1.1[0m" 200 -
+2020-12-18 17:06:33,098 INFO: Notification Removed
+2020-12-18 17:06:33,099 INFO: 127.0.0.1 - - [18/Dec/2020 17:06:33] "[37mGET /index?notif=Covid-19+Update HTTP/1.1[0m" 200 -
+2020-12-18 17:06:44,325 INFO: Notification Removed
+2020-12-18 17:06:44,326 INFO: 127.0.0.1 - - [18/Dec/2020 17:06:44] "[37mGET /index?notif=Covid-19+Update HTTP/1.1[0m" 200 -
+2020-12-18 17:06:44,861 INFO: Notification Removed
+2020-12-18 17:06:44,862 INFO: 127.0.0.1 - - [18/Dec/2020 17:06:44] "[37mGET /index?notif=Covid-19+Update HTTP/1.1[0m" 200 -
+2020-12-18 17:06:47,655 INFO: Notification Removed
+2020-12-18 17:06:47,656 INFO: 127.0.0.1 - - [18/Dec/2020 17:06:47] "[37mGET /index?notif=Weather+Update HTTP/1.1[0m" 200 -
+2020-12-18 17:07:06,201 INFO: Notification Removed
+2020-12-18 17:07:06,202 INFO: 127.0.0.1 - - [18/Dec/2020 17:07:06] "[37mGET /index?notif=Weather+Update HTTP/1.1[0m" 200 -
+2020-12-18 17:07:06,948 INFO: Notification Removed
+2020-12-18 17:07:06,949 INFO: 127.0.0.1 - - [18/Dec/2020 17:07:06] "[37mGET /index?notif=Weather+Update HTTP/1.1[0m" 200 -
+2020-12-18 17:07:07,291 INFO: Notification Removed
+2020-12-18 17:07:07,292 INFO: 127.0.0.1 - - [18/Dec/2020 17:07:07] "[37mGET /index?notif=Weather+Update HTTP/1.1[0m" 200 -
+2020-12-18 17:07:07,573 INFO: Notification Removed
+2020-12-18 17:07:07,574 INFO: 127.0.0.1 - - [18/Dec/2020 17:07:07] "[37mGET /index?notif=Weather+Update HTTP/1.1[0m" 200 -
+2020-12-18 17:07:07,824 INFO: Notification Removed
+2020-12-18 17:07:07,826 INFO: 127.0.0.1 - - [18/Dec/2020 17:07:07] "[37mGET /index?notif=Weather+Update HTTP/1.1[0m" 200 -
+2020-12-18 17:07:08,040 INFO: Notification Removed
+2020-12-18 17:07:08,042 INFO: 127.0.0.1 - - [18/Dec/2020 17:07:08] "[37mGET /index?notif=Weather+Update HTTP/1.1[0m" 200 -
+2020-12-18 17:07:08,234 INFO: Notification Removed
+2020-12-18 17:07:08,235 INFO: 127.0.0.1 - - [18/Dec/2020 17:07:08] "[37mGET /index?notif=Weather+Update HTTP/1.1[0m" 200 -
+2020-12-18 17:07:08,437 INFO: Notification Removed
+2020-12-18 17:07:08,439 INFO: 127.0.0.1 - - [18/Dec/2020 17:07:08] "[37mGET /index?notif=Weather+Update HTTP/1.1[0m" 200 -
+2020-12-18 17:07:08,655 INFO: Notification Removed
+2020-12-18 17:07:08,657 INFO: 127.0.0.1 - - [18/Dec/2020 17:07:08] "[37mGET /index?notif=Weather+Update HTTP/1.1[0m" 200 -
+2020-12-18 17:07:08,918 INFO: Notification Removed
+2020-12-18 17:07:08,919 INFO: 127.0.0.1 - - [18/Dec/2020 17:07:08] "[37mGET /index?notif=Weather+Update HTTP/1.1[0m" 200 -
+2020-12-18 17:07:09,129 INFO: Notification Removed
+2020-12-18 17:07:09,130 INFO: 127.0.0.1 - - [18/Dec/2020 17:07:09] "[37mGET /index?notif=Weather+Update HTTP/1.1[0m" 200 -
+2020-12-18 17:07:09,348 INFO: Notification Removed
+2020-12-18 17:07:09,349 INFO: 127.0.0.1 - - [18/Dec/2020 17:07:09] "[37mGET /index?notif=Weather+Update HTTP/1.1[0m" 200 -
+2020-12-18 17:07:09,537 INFO: Notification Removed
+2020-12-18 17:07:09,537 INFO: 127.0.0.1 - - [18/Dec/2020 17:07:09] "[37mGET /index?notif=Weather+Update HTTP/1.1[0m" 200 -
+2020-12-18 17:07:09,737 INFO: Notification Removed
+2020-12-18 17:07:09,738 INFO: 127.0.0.1 - - [18/Dec/2020 17:07:09] "[37mGET /index?notif=Weather+Update HTTP/1.1[0m" 200 -
+2020-12-18 17:07:09,937 INFO: Notification Removed
+2020-12-18 17:07:09,938 INFO: 127.0.0.1 - - [18/Dec/2020 17:07:09] "[37mGET /index?notif=Weather+Update HTTP/1.1[0m" 200 -
+2020-12-18 17:07:26,652 INFO: Notification Removed
+2020-12-18 17:07:26,653 INFO: 127.0.0.1 - - [18/Dec/2020 17:07:26] "[37mGET /index?notif=Weather+Update HTTP/1.1[0m" 200 -
+2020-12-18 17:07:27,198 INFO: Notification Removed
+2020-12-18 17:07:27,200 INFO: 127.0.0.1 - - [18/Dec/2020 17:07:27] "[37mGET /index?notif=Weather+Update HTTP/1.1[0m" 200 -
+2020-12-18 17:07:27,435 INFO: Notification Removed
+2020-12-18 17:07:27,436 INFO: 127.0.0.1 - - [18/Dec/2020 17:07:27] "[37mGET /index?notif=Weather+Update HTTP/1.1[0m" 200 -
+2020-12-18 17:07:27,640 INFO: Notification Removed
+2020-12-18 17:07:27,641 INFO: 127.0.0.1 - - [18/Dec/2020 17:07:27] "[37mGET /index?notif=Weather+Update HTTP/1.1[0m" 200 -
+2020-12-18 17:07:34,818 INFO: Alarm Removed
+2020-12-18 17:07:34,819 INFO: 127.0.0.1 - - [18/Dec/2020 17:07:34] "[37mGET /index?alarm_item=2020-12-18+17%3A07 HTTP/1.1[0m" 200 -
+2020-12-18 17:07:36,938 INFO: Notification Removed
+2020-12-18 17:07:36,940 INFO: 127.0.0.1 - - [18/Dec/2020 17:07:36] "[37mGET /index?notif=News+Update HTTP/1.1[0m" 200 -
+2020-12-18 17:08:05,858 INFO: Refreshing notifications
+2020-12-18 17:08:05,981 INFO: Refreshing notifications
+2020-12-18 17:08:05,982 INFO: Collecting Notifications
+2020-12-18 17:08:05,982 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:09:23,179 INFO: Refresh Smart Alarm Clock
+2020-12-18 17:09:23,187 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:09:25,166 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 17:09:25,166 INFO: Getting Weather Updates from Weather API
+2020-12-18 17:09:25,223 INFO: Returning Weather Updates from Weather API
+2020-12-18 17:09:25,223 INFO: Getting News Updates from News API
+2020-12-18 17:09:25,835 INFO: Returning News Updates from News API
+2020-12-18 17:09:25,880 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-12-18 17:09:25,892 INFO:  * Restarting with stat
+2020-12-18 17:09:26,197 INFO: Refresh Smart Alarm Clock
+2020-12-18 17:09:26,201 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:09:26,375 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 17:09:26,375 INFO: Getting Weather Updates from Weather API
+2020-12-18 17:09:26,435 INFO: Returning Weather Updates from Weather API
+2020-12-18 17:09:26,436 INFO: Getting News Updates from News API
+2020-12-18 17:09:27,023 INFO: Returning News Updates from News API
+2020-12-18 17:09:27,034 WARNING:  * Debugger is active!
+2020-12-18 17:09:27,045 INFO:  * Debugger PIN: 292-483-655
+2020-12-18 17:09:57,095 INFO: Refreshing notifications
+2020-12-18 17:09:57,095 INFO: Collecting Notifications
+2020-12-18 17:09:57,096 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:09:57,296 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 17:09:57,296 INFO: Getting Weather Updates from Weather API
+2020-12-18 17:09:57,346 INFO: Refreshing notifications
+2020-12-18 17:09:57,347 INFO: Collecting Notifications
+2020-12-18 17:09:57,347 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:13:04,688 INFO: Refresh Smart Alarm Clock
+2020-12-18 17:13:04,691 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:13:06,859 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 17:13:06,859 INFO: Getting Weather Updates from Weather API
+2020-12-18 17:13:06,955 INFO: Returning Weather Updates from Weather API
+2020-12-18 17:13:06,955 INFO: Getting News Updates from News API
+2020-12-18 17:13:07,713 INFO: Returning News Updates from News API
+2020-12-18 17:13:07,728 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-12-18 17:13:07,733 INFO:  * Restarting with stat
+2020-12-18 17:13:08,058 INFO: Refresh Smart Alarm Clock
+2020-12-18 17:13:08,062 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:13:08,241 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 17:13:08,241 INFO: Getting Weather Updates from Weather API
+2020-12-18 17:13:08,299 INFO: Returning Weather Updates from Weather API
+2020-12-18 17:13:08,299 INFO: Getting News Updates from News API
+2020-12-18 17:13:09,079 INFO: Returning News Updates from News API
+2020-12-18 17:13:09,090 WARNING:  * Debugger is active!
+2020-12-18 17:13:09,099 INFO:  * Debugger PIN: 292-483-655
+2020-12-18 17:13:27,186 INFO: Render Template with HTML
+2020-12-18 17:13:27,301 INFO: 127.0.0.1 - - [18/Dec/2020 17:13:27] "[37mGET / HTTP/1.1[0m" 200 -
+2020-12-18 17:13:30,876 INFO: Render Template with HTML
+2020-12-18 17:13:30,877 INFO: 127.0.0.1 - - [18/Dec/2020 17:13:30] "[37mGET / HTTP/1.1[0m" 200 -
+2020-12-18 17:13:32,776 INFO: Render Template with HTML
+2020-12-18 17:13:32,778 INFO: 127.0.0.1 - - [18/Dec/2020 17:13:32] "[37mGET / HTTP/1.1[0m" 200 -
+2020-12-18 17:13:33,358 INFO: Render Template with HTML
+2020-12-18 17:13:33,360 INFO: 127.0.0.1 - - [18/Dec/2020 17:13:33] "[37mGET / HTTP/1.1[0m" 200 -
+2020-12-18 17:13:33,837 INFO: Render Template with HTML
+2020-12-18 17:13:33,838 INFO: 127.0.0.1 - - [18/Dec/2020 17:13:33] "[37mGET / HTTP/1.1[0m" 200 -
+2020-12-18 17:13:34,125 INFO: Render Template with HTML
+2020-12-18 17:13:34,127 INFO: 127.0.0.1 - - [18/Dec/2020 17:13:34] "[37mGET / HTTP/1.1[0m" 200 -
+2020-12-18 17:13:34,358 INFO: Render Template with HTML
+2020-12-18 17:13:34,359 INFO: 127.0.0.1 - - [18/Dec/2020 17:13:34] "[37mGET / HTTP/1.1[0m" 200 -
+2020-12-18 17:13:34,555 INFO: Render Template with HTML
+2020-12-18 17:13:34,556 INFO: 127.0.0.1 - - [18/Dec/2020 17:13:34] "[37mGET / HTTP/1.1[0m" 200 -
+2020-12-18 17:13:34,751 INFO: Render Template with HTML
+2020-12-18 17:13:34,753 INFO: 127.0.0.1 - - [18/Dec/2020 17:13:34] "[37mGET / HTTP/1.1[0m" 200 -
+2020-12-18 17:13:34,940 INFO: Render Template with HTML
+2020-12-18 17:13:34,941 INFO: 127.0.0.1 - - [18/Dec/2020 17:13:34] "[37mGET / HTTP/1.1[0m" 200 -
+2020-12-18 17:13:35,091 INFO: Render Template with HTML
+2020-12-18 17:13:35,093 INFO: 127.0.0.1 - - [18/Dec/2020 17:13:35] "[37mGET / HTTP/1.1[0m" 200 -
+2020-12-18 17:13:35,275 INFO: Render Template with HTML
+2020-12-18 17:13:35,277 INFO: 127.0.0.1 - - [18/Dec/2020 17:13:35] "[37mGET / HTTP/1.1[0m" 200 -
+2020-12-18 17:13:36,711 INFO: Render Template with HTML
+2020-12-18 17:13:36,711 INFO: 127.0.0.1 - - [18/Dec/2020 17:13:36] "[37mGET / HTTP/1.1[0m" 200 -
+2020-12-18 17:13:46,687 INFO: New Alarm Added
+2020-12-18 17:13:46,688 INFO: Scheduled alarm created with label
+2020-12-18 17:13:46,688 INFO: Render Template with HTML
+2020-12-18 17:13:46,688 INFO: 127.0.0.1 - - [18/Dec/2020 17:13:46] "[37mGET /index?alarm=2020-12-18T17%3A11&two=Hello&news=news&weather=weather HTTP/1.1[0m" 200 -
+2020-12-18 17:13:49,366 INFO: New Alarm Added
+2020-12-18 17:13:49,366 INFO: Scheduled alarm created with label
+2020-12-18 17:13:49,367 INFO: Render Template with HTML
+2020-12-18 17:13:49,367 INFO: 127.0.0.1 - - [18/Dec/2020 17:13:49] "[37mGET /index?alarm=2020-12-18T17%3A11&two=Hello&news=news&weather=weather HTTP/1.1[0m" 200 -
+2020-12-18 17:13:49,982 INFO: New Alarm Added
+2020-12-18 17:13:49,982 INFO: Scheduled alarm created with label
+2020-12-18 17:13:49,982 INFO: Render Template with HTML
+2020-12-18 17:13:49,983 INFO: 127.0.0.1 - - [18/Dec/2020 17:13:49] "[37mGET /index?alarm=2020-12-18T17%3A11&two=Hello&news=news&weather=weather HTTP/1.1[0m" 200 -
+2020-12-18 17:13:50,439 INFO: New Alarm Added
+2020-12-18 17:13:50,439 INFO: Scheduled alarm created with label
+2020-12-18 17:13:50,439 INFO: Render Template with HTML
+2020-12-18 17:13:50,441 INFO: 127.0.0.1 - - [18/Dec/2020 17:13:50] "[37mGET /index?alarm=2020-12-18T17%3A11&two=Hello&news=news&weather=weather HTTP/1.1[0m" 200 -
+2020-12-18 17:13:50,640 INFO: New Alarm Added
+2020-12-18 17:13:50,640 INFO: Scheduled alarm created with label
+2020-12-18 17:13:50,640 INFO: Render Template with HTML
+2020-12-18 17:13:50,642 INFO: 127.0.0.1 - - [18/Dec/2020 17:13:50] "[37mGET /index?alarm=2020-12-18T17%3A11&two=Hello&news=news&weather=weather HTTP/1.1[0m" 200 -
+2020-12-18 17:14:13,990 INFO: Refreshing notifications
+2020-12-18 17:14:13,990 INFO: Alarm stored
+2020-12-18 17:14:14,116 INFO: Refreshing notifications
+2020-12-18 17:14:14,118 INFO: Collecting Notifications
+2020-12-18 17:14:14,118 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 17:14:14,390 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 17:14:14,391 INFO: Getting Weather Updates from Weather API
+2020-12-18 17:14:14,448 INFO: Returning Weather Updates from Weather API
+2020-12-18 17:14:14,448 INFO: Getting News Updates from News API
+2020-12-18 18:23:33,141 INFO: Refresh Smart Alarm Clock
+2020-12-18 18:23:33,153 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 18:23:36,268 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 18:23:36,269 INFO: Getting Weather Updates from Weather API
+2020-12-18 18:23:36,820 INFO: Returning Weather Updates from Weather API
+2020-12-18 18:23:36,820 INFO: Getting News Updates from News API
+2020-12-18 18:23:40,029 WARNING: Certificate did not match expected hostname: newsapi.org. Certificate: {'subject': ((('commonName', 'ezxcess.antlabs.com'),),), 'issuer': ((('countryName', 'US'),), (('organizationName', 'DigiCert Inc'),), (('organizationalUnitName', 'www.digicert.com'),), (('commonName', 'RapidSSL RSA CA 2018'),)), 'version': 3, 'serialNumber': '0BBA54D88E27D68A029CC189EB38C522', 'notBefore': 'Jan 31 00:00:00 2018 GMT', 'notAfter': 'Apr  7 12:00:00 2021 GMT', 'subjectAltName': (('DNS', 'ezxcess.antlabs.com'),), 'OCSP': ('http://status.rapidssl.com',), 'caIssuers': ('http://cacerts.rapidssl.com/RapidSSLRSACA2018.crt',), 'crlDistributionPoints': ('http://cdp.rapidssl.com/RapidSSLRSACA2018.crl',)}
+2020-12-18 18:33:41,395 INFO: Refresh Smart Alarm Clock
+2020-12-18 18:33:41,406 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 18:33:48,068 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 18:33:48,068 INFO: Getting Weather Updates from Weather API
+2020-12-18 18:33:48,324 INFO: Returning Weather Updates from Weather API
+2020-12-18 18:33:48,324 INFO: Getting News Updates from News API
+2020-12-18 18:33:48,842 INFO: Returning News Updates from News API
+2020-12-18 18:33:48,948 INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2020-12-18 18:33:48,961 INFO:  * Restarting with stat
+2020-12-18 18:33:50,498 INFO: Refresh Smart Alarm Clock
+2020-12-18 18:33:50,507 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 18:33:53,442 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 18:33:53,442 INFO: Getting Weather Updates from Weather API
+2020-12-18 18:33:53,693 INFO: Returning Weather Updates from Weather API
+2020-12-18 18:33:53,693 INFO: Getting News Updates from News API
+2020-12-18 18:33:54,433 INFO: Returning News Updates from News API
+2020-12-18 18:33:54,444 WARNING:  * Debugger is active!
+2020-12-18 18:33:54,483 INFO:  * Debugger PIN: 292-483-655
+2020-12-18 18:36:16,322 INFO: Refreshing notifications
+2020-12-18 18:36:16,323 INFO: Collecting Notifications
+2020-12-18 18:36:16,324 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 18:36:16,574 INFO: Refreshing notifications
+2020-12-18 18:36:16,575 INFO: Collecting Notifications
+2020-12-18 18:36:16,575 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 18:36:18,864 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 18:36:18,864 INFO: Getting Weather Updates from Weather API
+2020-12-18 18:36:19,092 INFO: Returning Weather Updates from Weather API
+2020-12-18 18:36:19,092 INFO: Getting News Updates from News API
+2020-12-18 18:36:20,772 INFO: Returning News Updates from News API
+2020-12-18 18:36:20,772 INFO: Refreshing notifications
+2020-12-18 18:36:20,772 INFO: Collecting Notifications
+2020-12-18 18:36:20,772 INFO: Getting covid-19 cases and deaths updates from covid-19 API
+2020-12-18 18:36:21,440 INFO: Returning Covid-19 Cases and Deaths Updates from Covid-API
+2020-12-18 18:36:21,441 INFO: Getting Weather Updates from Weather API
